@@ -1,2 +1,3 @@
 - 👋 Hi, I’m @Msa360
-- Python, JavaScript, PHP, GO
+- AI, web dev, low-level stuff, software development
+- Twitter msa720360
