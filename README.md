@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Msa360
 - AI, web dev, low-level stuff, software development
-- Twitter msa720360
+- Twitter: msa720360
